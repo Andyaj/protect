@@ -1,2 +1,2 @@
-0.0.0.0 tampabay.com
 0.0.0.0 www.tampabay.com
+0.0.0.0 tampabay.com
