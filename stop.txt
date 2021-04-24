@@ -1,1 +1,1 @@
-local.tampabay.com
+tampabay.com
