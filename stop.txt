@@ -13,3 +13,5 @@ ytimg.com
 youtu.be
 roblox.com
 web.roblox.com
+redirector.googlevideo.com
+www.redirector.googlevideo.com
