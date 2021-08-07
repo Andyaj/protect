@@ -29,3 +29,5 @@ w1.luckyorange.com
 extmaps-api.yandex.net
 analytics.facebook.com
 ads.facebook.com
+supportmetrics.apple.com
+analytics.oneplus.cn
