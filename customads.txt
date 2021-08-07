@@ -27,3 +27,5 @@ xp.apple.com
 freshmarketer.com
 w1.luckyorange.com
 extmaps-api.yandex.net
+analytics.facebook.com
+ads.facebook.com
