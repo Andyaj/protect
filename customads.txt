@@ -22,3 +22,7 @@ https://samsung-com.112.2o7.net
 https://business.samsungusa.com
 https://analytics-api.samsunghealthcn.com
 https://xp.apple.com
+https://freshmarketer.com
+https://w1.luckyorange.com
+https://browser.sentry-cdn.com
+https://extmaps-api.yandex.net
