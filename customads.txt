@@ -26,5 +26,4 @@ analytics-api.samsunghealthcn.com
 xp.apple.com
 freshmarketer.com
 w1.luckyorange.com
-browser.sentry-cdn.com
 extmaps-api.yandex.net
